@@ -2,8 +2,8 @@
   "development": {
     "username": "root",
     "password": "Nhan1996##",
-    "database": "linkedin_clone",
-    "host": "localhost",
+    "database": "socialApi",
+    "host": "social-api.cvenqd8hnvh6.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {

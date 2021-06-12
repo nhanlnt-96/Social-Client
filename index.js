@@ -27,6 +27,4 @@ db.sequelize.sync().then(() => {
   app.listen(port, () => {
     console.log('🚀 connected on port 3001');
   });
-}).catch((error) => {
-  console.log(error);
-});
+})

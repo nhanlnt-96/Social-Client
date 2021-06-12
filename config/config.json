@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
+    "username": "admin",
     "password": "Nhan1996##",
     "database": "socialApi",
-    "host": "social-api.cvenqd8hnvh6.us-east-2.rds.amazonaws.com",
+    "host": "database-1.cvenqd8hnvh6.us-east-2.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {

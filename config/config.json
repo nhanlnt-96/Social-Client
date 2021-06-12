@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "Nhan1996",
+    "password": "Nhan1996##",
     "database": "linkedin_clone",
     "host": "localhost",
     "dialect": "mysql"
